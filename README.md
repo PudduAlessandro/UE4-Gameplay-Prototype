@@ -1,4 +1,4 @@
-# UE4-Rayman3Combat-Prototype
+# Rayman 3 combat in Unreal Engine 4
 
 This repo contains my approach at recreating the movement and combat system from the game Rayman 3: Hoodlum Havoc in Unreal Engine 4.27.
 
